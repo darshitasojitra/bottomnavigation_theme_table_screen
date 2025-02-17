@@ -12,7 +12,7 @@ class _Emailscreen2State extends State<Emailscreen2> {
   Widget build(BuildContext context) {
     return Scaffold(
 body: Center(
-  child: Text("Email_Screen",style: Theme.of(context).textTheme.headlineMedium,),
+  child: Text("Email_Screen_2",style: Theme.of(context).textTheme.headlineMedium,),
 ),
     );
   }
